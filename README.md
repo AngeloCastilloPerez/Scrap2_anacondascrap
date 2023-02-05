@@ -22,3 +22,10 @@ import scrapy
                 'population': population,
                    }
             
+# Curso de Web Scraping en Python | Web Scraping Avanzado con Scrapy [Nivel Avanzado]:
+
+https://www.youtube.com/watch?v=S_znhijDygM&ab_channel=FrankAndrade
+
+Página : 
+
+https://www.worldometers.info/world-population/population-by-country/
